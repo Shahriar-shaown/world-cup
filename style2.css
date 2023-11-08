@@ -1,0 +1,91 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+}
+h1{
+    font-size: 4.5em;
+}
+p{
+    font-size: 0.75em;
+}
+.details{
+    width: 531px;
+    height: 424px;
+}
+.marcelo{
+    width: 581px;
+    height: 620px;
+}
+button{
+    padding: 10px;
+    margin-top: 20px;
+    color: #FFFFFF;
+    background-color: rgb(235, 6, 6);
+    border-color: red;
+    border-radius: 5px;
+}
+.Greatest{
+    color: #FFFFFF;
+    height: 620px;
+    width: 1321px;
+    border-radius: 30px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.group{
+    height: 312px;
+    width: 312px;
+    margin-right: 20px;
+    background-color: black;
+    text-align: center;
+}
+h3{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin: 10px 10px;
+    padding: 33px;
+    background-color: white;
+}
+.blg{
+    color: #FFFFFF;
+    background-color: red;
+}
+.match{
+    border: 1px solid rgb(248, 245, 245);
+    padding: 15px 15px;
+    text-align: center;
+}
+.vs{
+    padding-bottom: 50px;
+}
+.matches{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 80px;
+    column-gap: 120px;
+}
+.scnd-part{
+    display: flex;
+    margin-top: 60px;
+}
+footer{
+    width: 1330px;
+    height: 444px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.goal{
+    padding-top: 65px;
+}
+h8{
+    display: inline;
+    margin-right: 30px;
+}
+.fa-brands{
+    margin-left: 30px;
+}
